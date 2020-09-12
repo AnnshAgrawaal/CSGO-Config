@@ -1,0 +1,2 @@
+# CSGO-Config
+BIGSHOT CSGO CONFIG
